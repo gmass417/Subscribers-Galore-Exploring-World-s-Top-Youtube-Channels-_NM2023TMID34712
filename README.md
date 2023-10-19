@@ -16,3 +16,6 @@ https://public.tableau.com/views/Dashboard5_16976169497970/Dashboard5?:language=
 
 Story 1 public : 
 https://public.tableau.com/views/Story1_16976173263850/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+Video Demonstration public:
+https://drive.google.com/file/d/17zdweUDB_EWTrPO1sQKtrsJYNf8tnvba/view?usp=drivesdk
